@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:bbs.feidee.net</string>
+		<string>applinks:test.cardniu.com</string>
+		<string>applinks:p2pmarket.feidee.net</string>
+		<string>applinks:moneymarket.feidee.com</string>
+		<string>applinks:credit.cardniu.com</string>
+		<string>applinks:bbs.feidee.com</string>
+		<string>applinks:t.feidee.com</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.feidee.todaywidget</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>F9HCT2XJQM.com.kingdee.MyMoney</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,162 @@
+{
+    "version": "1.0",
+    "timestamp": 1444953600,
+    "defaultTemplates": {
+        "default": 1,
+        "business": 10,
+        "businessTrip": 7,
+        "kindness": 8,
+        "catering": 9,
+        "travel": 2,
+        "decoration": 3,
+        "marriage": 4,
+        "car": 5,
+        "baby": 6
+    },
+    "templates": [
+        {
+            "bgimg": {
+                "imgID": 1,
+                "type": "predefined"
+            },
+            "entries": ["MonthlyIncome", "MonthlyExpense", "MonthlyBudget"],
+            "layout": "default",
+            "name": "经典面板",
+            "id": 1
+        },
+        {
+            "bgimg": {
+                "imgID": 2,
+                "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "旅游面板",
+            "id": 2
+        },
+        {
+            "bgimg": {
+                "imgID": 6,
+                "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "装修面板",
+            "id": 3
+        },
+        {
+            "bgimg": {
+                "imgID": 4,
+                "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "结婚面板",
+            "id": 4
+        },
+        {
+            "bgimg": {
+                "imgID": 5,
+                "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "汽车面板",
+            "id": 5
+        },
+        {
+            "bgimg": {
+                "imgID": 3,
+                "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "宝宝面板",
+            "id": 6
+        },
+        {
+            "bgimg": {
+              "imgID": 7,
+              "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "差旅面板",
+            "id": 7
+        },
+        {
+            "bgimg": {
+            "imgID": 8,
+            "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "人情面板",
+            "id": 8
+        },
+        {
+            "bgimg": {
+            "imgID": 9,
+            "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "餐饮面板",
+            "id": 9
+        },
+        {
+            "bgimg": {
+            "imgID": 10,
+            "type": "predefined"
+            },
+            "entries": ["MonthlyBudget", "MonthlyExpense", "MonthlyIncome"],
+            "layout": "style1",
+            "name": "生意面板",
+            "id": 10
+        }
+    ],
+    "meta" : {
+        "layoutStyle1ColorMap": {
+            "1": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "2": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "3": {
+                "color": "#506673",
+                "addExpenseBackStyle": "red"
+            },
+            "4": {
+                "color": "#ffffff",
+                "addExpenseBackStyle": "red"
+            },
+            "5": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "6": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "7": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "8": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "9": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            },
+            "10": {
+                "color": "#e2e2e8",
+                "addExpenseBackStyle": "default"
+            }
+        }
+    }
+}

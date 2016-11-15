@@ -1,0 +1,72 @@
+ *{
+           margin: 0;
+           padding: 0;
+       }
+        body{
+/*            San Francisco  "SimHei","Microsoft YaHei"*/
+            font-family: Arial,"San Francisco",Helvetica,sans-serif
+        }
+        .header{
+            height: 57px;
+            margin-left: 16px;
+            border-bottom: 0.5px ridge #e4e4e4;
+        }
+        h2{
+            font-size:19px;
+            color:#fe6700;
+            line-height: 57px;
+        }
+        .paragraph{
+            margin: 17px 16px 0 16px;
+        }
+        .pic_num{
+            font-size: 15px;
+            color: #767e89;
+        }
+        .content{
+            font-size: 15px;
+            line-height: 22px;
+            color: #394042;
+            font-weight: lighter;
+            
+            text-align: justify;
+            text-justify: distribute-all-lines;
+        }
+        .image_box{
+            width: inherit;
+            margin: 30px 0 33px 0;
+            text-align: center;
+        }
+        .image_box:nth-child(2){
+            margin: 20px 0 33px 0;
+        }
+        .tt{
+            display: inline-block;
+            font-size: 12px;
+            color: #767e89;
+        }
+        .images{
+            display: block;
+            width: 135px;
+            height: auto;
+            margin: 0 auto;
+            -webkit-box-shadow:0 3px 18px rgba(0, 0, 0, .25);
+            margin-bottom: 10px;
+        }
+        .icon{
+            display: inline-block;
+            width: 13px;
+            height: 13px;
+            -webkit-border-radius: 100%;
+            -moz-border-radius: 100%;
+            border-radius: 100%;
+            background: #b3b7ba;
+            color: #ffffff;
+            font-size: 11px;
+            line-height: 13px;
+            text-align: center;
+            position: relative;
+            top: -2px;
+            margin-right: 10px;
+        }
+

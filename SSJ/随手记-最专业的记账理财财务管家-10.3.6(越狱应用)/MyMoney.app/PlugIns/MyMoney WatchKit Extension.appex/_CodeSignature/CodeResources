@@ -1,0 +1,3352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Info.plist</key>
+		<data>
+		seG5eg9abBJAehR/VDnjK7QoawA=
+		</data>
+		<key>MyMoney WatchKit App.app/AllCategory.png</key>
+		<data>
+		7G9DSVq0snbmbDOVbGiht2aRF9o=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon24x24@2x.png</key>
+		<data>
+		1+YPe52bA91E4Jyzh5aHfTCX8Lo=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon27.5x27.5@2x.png</key>
+		<data>
+		pQQijuGUZOGWLCzgB7oIohIc9Wk=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon29x29@2x.png</key>
+		<data>
+		Jo4PN7KH3GaxrMitKSt2aEl212g=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon29x29@3x.png</key>
+		<data>
+		X3ZZUh/Ox3CMgJ49Vk5twQJZ6iI=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon40x40@2x.png</key>
+		<data>
+		ejD+5/xG+4Ca9gOxzwSnTG3oZK0=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon44x44@2x.png</key>
+		<data>
+		8inPlO/OMeM8nLefzpvsO5hWrMQ=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon86x86@2x.png</key>
+		<data>
+		njjVfVMLISpsWeFxlUZ0zNB2Y4E=
+		</data>
+		<key>MyMoney WatchKit App.app/AppIcon98x98@2x.png</key>
+		<data>
+		4g7k2YVF3EDapgUI+MKpqo8e1u0=
+		</data>
+		<key>MyMoney WatchKit App.app/AskDebt.png</key>
+		<data>
+		LpcJtzn7w+rqz4EvBHoaWjUooMY=
+		</data>
+		<key>MyMoney WatchKit App.app/Base.lproj/Interface-glance.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t2chsn8N+/SFezH6VcOVwegWO4I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/Base.lproj/Interface-notification.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S7eOFtjQU4js8ZkJP7nfllmIFbg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/Base.lproj/Interface.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cHbfjdShwh3Nh77iS2J4TaV+Y2o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/Borrow.png</key>
+		<data>
+		RsGliEjbfHW4chtaVTstLJzcCeg=
+		</data>
+		<key>MyMoney WatchKit App.app/Info.plist</key>
+		<data>
+		Q72jgophYtzKR6o9QVNPRqZprgY=
+		</data>
+		<key>MyMoney WatchKit App.app/Lend.png</key>
+		<data>
+		x903uH3kYIMsow1Hg9MNkvywDzE=
+		</data>
+		<key>MyMoney WatchKit App.app/MyMoney WatchKit App</key>
+		<data>
+		XwQTf+4lcyV7NWT3Mf/imlxMfzs=
+		</data>
+		<key>MyMoney WatchKit App.app/PayDebt.png</key>
+		<data>
+		Y++zRmoMQfqpCyqRAHJbnBfZCmQ=
+		</data>
+		<key>MyMoney WatchKit App.app/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>MyMoney WatchKit App.app/RepayIn.png</key>
+		<data>
+		iWKUKuwRswsDXacmRcx9a+bdd6Q=
+		</data>
+		<key>MyMoney WatchKit App.app/RepayOut.png</key>
+		<data>
+		Y++zRmoMQfqpCyqRAHJbnBfZCmQ=
+		</data>
+		<key>MyMoney WatchKit App.app/TransferIn.png</key>
+		<data>
+		uueYLeyi+0vNlpn/GqzUX1lzYEU=
+		</data>
+		<key>MyMoney WatchKit App.app/TransferOut.png</key>
+		<data>
+		4pbRtJBx3vkzTPWBmCJRhhacLOA=
+		</data>
+		<key>MyMoney WatchKit App.app/_CodeSignature/CodeResources</key>
+		<data>
+		in8PJ8ZFQLuoA9sNNGiAtJLt1DY=
+		</data>
+		<key>MyMoney WatchKit App.app/_WatchKitStub/WK</key>
+		<data>
+		3V96lj2+l379O2uU47WEe8h2jUE=
+		</data>
+		<key>MyMoney WatchKit App.app/archived-expanded-entitlements.xcent</key>
+		<data>
+		vO/gVYVVkU1zHBaxd4xJ53/ga5k=
+		</data>
+		<key>MyMoney WatchKit App.app/bullet_budgetOverrun@2x.png</key>
+		<data>
+		XGamgB7BboDDokhwYxsB+b2RGhk=
+		</data>
+		<key>MyMoney WatchKit App.app/bullet_expense@2x.png</key>
+		<data>
+		8FeEVSjIdsJeHNgjj1w7P2KfALs=
+		</data>
+		<key>MyMoney WatchKit App.app/bullet_forum@2x.png</key>
+		<data>
+		NjCRZGOlH/SESiqhtsXRqZwGzyE=
+		</data>
+		<key>MyMoney WatchKit App.app/bullet_social@2x.png</key>
+		<data>
+		uCYPCTdjjy41bD8TkjCDAS7jxyw=
+		</data>
+		<key>MyMoney WatchKit App.app/bullet_template@2x.png</key>
+		<data>
+		058x7+/1UBpLt2HLofWo6CIEq7s=
+		</data>
+		<key>MyMoney WatchKit App.app/chartAssets@2x.png</key>
+		<data>
+		O0PgnaV+6vyPirnxuwmzNmbJzMk=
+		</data>
+		<key>MyMoney WatchKit App.app/chartBalance@2x.png</key>
+		<data>
+		UwOHpWizdFSG3Pozto09uWMJjRI=
+		</data>
+		<key>MyMoney WatchKit App.app/chartMonthExpense@2x.png</key>
+		<data>
+		6ZPye6sByeioCo1+Ell96EqPWEk=
+		</data>
+		<key>MyMoney WatchKit App.app/chartMonthIncome@2x.png</key>
+		<data>
+		h9gwCs6LI7k5Wca1veU8B5g4oE0=
+		</data>
+		<key>MyMoney WatchKit App.app/chart_mainIcon@2x.png</key>
+		<data>
+		xiKOd798eF8N7NIgczQAdav1Z8E=
+		</data>
+		<key>MyMoney WatchKit App.app/common_btn_back@2x.png</key>
+		<data>
+		SqYCDolOtzcxY73/eIzWNLb6LPs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_cfsb.png</key>
+		<data>
+		i0HoXOKlY186OwfkOPpNuDZGodA=
+		</data>
+		<key>MyMoney WatchKit App.app/d_ctjj.png</key>
+		<data>
+		zvNyjxPVoZKOwY/Zk52sWNlmkQs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_db.png</key>
+		<data>
+		6jy9robT97PHEz3WMxplD9lbbxo=
+		</data>
+		<key>MyMoney WatchKit App.app/d_dhdsjwlxl.png</key>
+		<data>
+		lTgFBelee0puL6F4Awm+9AlSsEc=
+		</data>
+		<key>MyMoney WatchKit App.app/d_dlgzcl.png</key>
+		<data>
+		7QyJckIFf8O9O69wcKMFJjzjDrM=
+		</data>
+		<key>MyMoney WatchKit App.app/d_dy.png</key>
+		<data>
+		sLZ7b//kgE2npBq1fNH1NWCl9hc=
+		</data>
+		<key>MyMoney WatchKit App.app/d_fd.png</key>
+		<data>
+		BIzwhxZtQ+kOfBo8AXFsviGXU6w=
+		</data>
+		<key>MyMoney WatchKit App.app/d_fjp.png</key>
+		<data>
+		jxLnA4N4yza22WlLl+RUdkeKUT4=
+		</data>
+		<key>MyMoney WatchKit App.app/d_fscl.png</key>
+		<data>
+		mThLBPpZG4QlSROysblBxL/BxCA=
+		</data>
+		<key>MyMoney WatchKit App.app/d_fzcl.png</key>
+		<data>
+		LdYr2B46ebYDyqEz6LL443jSuG8=
+		</data>
+		<key>MyMoney WatchKit App.app/d_fzsb.png</key>
+		<data>
+		EJA/1sj45VnaajB2a/CzXR9hTwA=
+		</data>
+		<key>MyMoney WatchKit App.app/d_ggx.png</key>
+		<data>
+		VUyR7d/gcN2Xfq4pd4GVVk97oM8=
+		</data>
+		<key>MyMoney WatchKit App.app/d_glds.png</key>
+		<data>
+		aGN9AEnisaG2J9wbXztv6hpMNBs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_hcp.png</key>
+		<data>
+		rzYVj2SQD7mNqk1pIPq6OMYRpRs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_hld.png</key>
+		<data>
+		hJAqBuV5A8xPnFIZJOTHqAj/S9c=
+		</data>
+		<key>MyMoney WatchKit App.app/d_hlqt.png</key>
+		<data>
+		lntAwZPJPUvBClu7BnjEOUjzvFs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_hqhdfy.png</key>
+		<data>
+		OCytC5AZcUcFg9TTo+XzDToA0cU=
+		</data>
+		<key>MyMoney WatchKit App.app/d_hsfz.png</key>
+		<data>
+		Z+1JEMQk/uraK8A+sXUGO8LxQVI=
+		</data>
+		<key>MyMoney WatchKit App.app/d_hssy.png</key>
+		<data>
+		p9GeUxEuMS/lSfyqTGeOjNlnSMA=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jdmp.png</key>
+		<data>
+		vYKWcC/BZFB3SMF2hYNkBfnM9Qw=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jhsp.png</key>
+		<data>
+		P70NdQncal2OgB296NOqtLUUCEY=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jj.png</key>
+		<data>
+		XjKVEb+M9HGvZMrydWMtSVRAFVs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jsbh.png</key>
+		<data>
+		tdPwrj2EoKEcmnrn62XQuW2RRO0=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jseh.png</key>
+		<data>
+		IVGQkVBG3dAyU6iDI5t8I6/YY5Y=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jsh.png</key>
+		<data>
+		NwRCkyvIdUCTmLECbGZeTETlU0s=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jsqh.png</key>
+		<data>
+		+4hiI/UTQbpnohP1EfQlMaLVOH4=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jssh.png</key>
+		<data>
+		Eigf21amuQoobdseMesRKrH6GEI=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jswh.png</key>
+		<data>
+		+c0R60f2gzLdbJgqkeEmtITaviE=
+		</data>
+		<key>MyMoney WatchKit App.app/d_jydq.png</key>
+		<data>
+		wIOvomkEzIk5VOdD/HHHwOVdPTc=
+		</data>
+		<key>MyMoney WatchKit App.app/d_lcp.png</key>
+		<data>
+		d3N2RAYzQ9J495kEb/ajcVdIxts=
+		</data>
+		<key>MyMoney WatchKit App.app/d_lh.png</key>
+		<data>
+		5BkojIip8GywHkHrRaZ6+0T0TEw=
+		</data>
+		<key>MyMoney WatchKit App.app/d_mc.png</key>
+		<data>
+		4JVJpVd1jkLf18ftXHEjoBM8xTY=
+		</data>
+		<key>MyMoney WatchKit App.app/d_mrwh.png</key>
+		<data>
+		k2pA+w2nv2yPycC6SVQeLhJp/bU=
+		</data>
+		<key>MyMoney WatchKit App.app/d_muc.png</key>
+		<data>
+		H3REoFkWvKNt8pWl8dCibtQYk/Y=
+		</data>
+		<key>MyMoney WatchKit App.app/d_nf.png</key>
+		<data>
+		+7KPb3dzPeH7Mp/7YDH5bkjaa7g=
+		</data>
+		<key>MyMoney WatchKit App.app/d_pjsp.png</key>
+		<data>
+		Thclq9XU/CeCwfFXwb6RUCilXf8=
+		</data>
+		<key>MyMoney WatchKit App.app/d_qcp.png</key>
+		<data>
+		E6I4OiuPzqQipD3FnJrS1gtNjFg=
+		</data>
+		<key>MyMoney WatchKit App.app/d_qcqj.png</key>
+		<data>
+		DyuiFdLnLemNXpVMt/ACZW2KBpg=
+		</data>
+		<key>MyMoney WatchKit App.app/d_qmcl.png</key>
+		<data>
+		m4W3Jy2O+rohsibKk7LD++jeX6I=
+		</data>
+		<key>MyMoney WatchKit App.app/d_qtjj.png</key>
+		<data>
+		6IJrhz3tOl64O1OPPvrn8GdfcK0=
+		</data>
+		<key>MyMoney WatchKit App.app/d_sfjj.png</key>
+		<data>
+		DAdISQ4HWrhtY+zONxtvNkkzxFE=
+		</data>
+		<key>MyMoney WatchKit App.app/d_shyp.png</key>
+		<data>
+		UBY1zOdTnyZSZxepszi6LBi1Kgs=
+		</data>
+		<key>MyMoney WatchKit App.app/d_slgzcl.png</key>
+		<data>
+		yNVA9MJlI0xreSb/609x/lSQ29o=
+		</data>
+		<key>MyMoney WatchKit App.app/d_tlrjq.png</key>
+		<data>
+		9QvxkJ3Fb1jxgbMt/hz0riK2rDg=
+		</data>
+		<key>MyMoney WatchKit App.app/d_wanj.png</key>
+		<data>
+		spactnDgwrkV8AUmxI/P9IICT+4=
+		</data>
+		<key>MyMoney WatchKit App.app/d_wj.png</key>
+		<data>
+		YDda863qzoGpRI2kezv+kktBhL4=
+		</data>
+		<key>MyMoney WatchKit App.app/d_wysb.png</key>
+		<data>
+		qrnXAWvXkM6H9xCDhZ7cBWsemZA=
+		</data>
+		<key>MyMoney WatchKit App.app/d_xtxt.png</key>
+		<data>
+		xH/nNDnraNlx569v+Myaftrbt+g=
+		</data>
+		<key>MyMoney WatchKit App.app/d_yx.png</key>
+		<data>
+		odUeSg2UejdvN/S24UNp87wQQ+M=
+		</data>
+		<key>MyMoney WatchKit App.app/d_zg.png</key>
+		<data>
+		NKfLgcDw4GEsPNa/Ox4PQl77zko=
+		</data>
+		<key>MyMoney WatchKit App.app/d_zs.png</key>
+		<data>
+		4MeLV771ruzo7GKVAZl/Oe2xBTg=
+		</data>
+		<key>MyMoney WatchKit App.app/d_zszh.png</key>
+		<data>
+		qG46ulx1jWC0u10l124m7OoqGKY=
+		</data>
+		<key>MyMoney WatchKit App.app/d_zxmr.png</key>
+		<data>
+		xUwECdgZl3GoZknLGR9hfaE6Kts=
+		</data>
+		<key>MyMoney WatchKit App.app/defaultIcon.png</key>
+		<data>
+		plhDpBDboYXqNT2ZhIV/ZBlRKgo=
+		</data>
+		<key>MyMoney WatchKit App.app/emptyIcon@2x.png</key>
+		<data>
+		wrHLS69PzyNXEYmdm7FIv9/HZmI=
+		</data>
+		<key>MyMoney WatchKit App.app/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t3VBS6dJjBMoEKvWpUjlPxMM3do=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/errorIcon@2x.png</key>
+		<data>
+		hkuWHfvm9qEQBWqzdONDRHSitvY=
+		</data>
+		<key>MyMoney WatchKit App.app/genericBack@2x.png</key>
+		<data>
+		WAeYuugUTz9g/6pT0Hk25BapTqM=
+		</data>
+		<key>MyMoney WatchKit App.app/glanceIcon@2x.png</key>
+		<data>
+		QMh/qRyKg7uaLMgMfDGCXfhQXs8=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_arrow.png</key>
+		<data>
+		n7SNxHYebRkEmCXGDkjzLXcjfUY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_balance_change.png</key>
+		<data>
+		V2ioSClrQNrCGEUvzPVgo1ETIgM=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_bbyp.png</key>
+		<data>
+		BVgzXfbrv9OWsXKqdWD9V8Ke3x0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_bbyp_nbnp.png</key>
+		<data>
+		oMQEQ2N+D3816/3uBw82iF1s25c=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_bbyp_ykxm.png</key>
+		<data>
+		4FL3k6WbO+rEpHWNUUaE3PU8/t4=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_bbyp_zjwj.png</key>
+		<data>
+		8XhJzH8X/S+63/+hxJn7hgb+ubQ=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy.png</key>
+		<data>
+		bvpj+/gVkdn2BowZr68XRZFYAHI=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy_fz.png</key>
+		<data>
+		RS1GHBTGhl9rFf/kY4UR30Vz1yo=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy_rcyp.png</key>
+		<data>
+		W9IVCaxDfV7VkoK4afXiQ/4oZdY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy_sdmq.png</key>
+		<data>
+		twy7toWbWpZO9NcXr8ThHsNAJzo=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy_swcc.png</key>
+		<data>
+		UaKAcHTBCiBXbYJoMURnGGtF2wY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy_wygl.png</key>
+		<data>
+		Ujzu7RSmQ1VMhRj5dg8P4cMYloM=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jjwy_yxby.png</key>
+		<data>
+		IJxNg5CWOZeaqufl8kxO4E1vZDU=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jltx.png</key>
+		<data>
+		R1PglcAJHgezOrk466nb0Q+4nu8=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jltx_sjf.png</key>
+		<data>
+		VO0qPfnKJNGj7l4iCw9QzOE6Yi0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jltx_swf.png</key>
+		<data>
+		HPWKPFqVVVxtac9/gDi7vwhLFpw=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jltx_yjf.png</key>
+		<data>
+		wPxLiMLHusMGsE86i9/L/llvXIE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jltx_zjf.png</key>
+		<data>
+		5ZhpkIn4Ho3u7XNA9Mvh01lgiQY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx.png</key>
+		<data>
+		gJQaDTKoFTQwxhiyvwjVmBE0mNg=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_ajhk.png</key>
+		<data>
+		cXmUtzvm+Ei167CHU6LetQdm4ds=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_bxzc.png</key>
+		<data>
+		fVtoUPww1hU/Ho/iPXhrdDDj+qc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_lxzc.png</key>
+		<data>
+		CpvX/UWblqPWXwLFy8J8woAGgYg=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_pcfk.png</key>
+		<data>
+		y8OWn6Ch7cEUVR5OhdUa8YmJJ00=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_tzks.png</key>
+		<data>
+		kUE9LuikP7v4Nu1gZKGGisbd7Pk=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_xfss.png</key>
+		<data>
+		o/pfaM5419sDlIMC2UaC7O/izVQ=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrbx_yhsx.png</key>
+		<data>
+		qvkbv4LLSEFP8yu1/ZPk22cEaMY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_jrtz_bxsr.png</key>
+		<data>
+		pFlBSOqYlTFU9rbb1JK4sqtuqGg=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_lyyp_hwyk.png</key>
+		<data>
+		yIcf7Q4LskCOQ2tgj/YvLQEUqn0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_lyyp_hwzb.png</key>
+		<data>
+		8+uqADzbqu9sk/Kvl/A+KAdlMyQ=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr.png</key>
+		<data>
+		9Iy2Ogveeh5znazzFFRKrRdGuNE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_jysd.png</key>
+		<data>
+		D2iikoSVCJe8xvxGDKzH2Wok3kQ=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_ljsr.png</key>
+		<data>
+		c8YJDYoClU8+T25VO2ygV87CeNY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_mfp.png</key>
+		<data>
+		MhJo6pvJqOA5D0ee0IZFFjB3Jpc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_thtk.png</key>
+		<data>
+		4MzU2ekfSDFtNjdb1SAY6U/D2K4=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_xykhk.png</key>
+		<data>
+		xIqQC8A5SnoSuERwQ1mFpsaArio=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_ywlq.png</key>
+		<data>
+		GZV+VkZkCrL/QIe4VuCXtTWcZrc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtsr_zjsr.png</key>
+		<data>
+		XMqEOIlbI2ZsrLoU43T3h/Zaxrk=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtzx.png</key>
+		<data>
+		JMHy3BfRN7dUoBS9Bf+Ku1GgaJo=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtzx_bmf.png</key>
+		<data>
+		NioIxer5TQulJ/GjQDK/KXu4n7k=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtzx_lzss.png</key>
+		<data>
+		FQq+RwmwwUOLoQvVFZ+9pQ4DINg=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtzx_qtzc.png</key>
+		<data>
+		09ub9Ve1veaDExo2panEoLQSFDw=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_qtzx_ywds.png</key>
+		<data>
+		8zk9eAtdfE8HAmnYy5LEk766OD0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_rqwl.png</key>
+		<data>
+		btLZD7iNPAFORPwJ6h4LMX6vY9g=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_rqwl_csjz.png</key>
+		<data>
+		bQaj8/6Nc1NVJJww8FcztOJT7p8=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_rqwl_hrqc.png</key>
+		<data>
+		+XbMxVQqmlC0j6cOLWdrFA5hWN0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_rqwl_slqk.png</key>
+		<data>
+		68n4HLXsItS+SIBl80WSz0lPI3M=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_rqwl_xjjz.png</key>
+		<data>
+		zX1YmA+hPXCObjQPCP5fT7kgFSs=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs.png</key>
+		<data>
+		MMINn96BzNlQmR3TA5FdFUAyThU=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_mc.png</key>
+		<data>
+		ZckF+AKYHWfoOA0fAB8NC/gT640=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_sgls.png</key>
+		<data>
+		L4vlY6UZgdfon5P9MigFD5B3/m8=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_wc.png</key>
+		<data>
+		qHscm+rimsnZdkYzyIKuEItgHnk=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_yjc.png</key>
+		<data>
+		K4iMB6H9AcOwDBYL03hue5jbMdY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_yl.png</key>
+		<data>
+		8kKMnqkFh0E3QmddBQXYKsIcSMo=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_zc.png</key>
+		<data>
+		2YVHmWEIZZvJEH9IzQC6qNftmcI=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_spjs_zwwc.png</key>
+		<data>
+		oHrHqXNrqq44S6MwWSKIzTZcWfA=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xcjt.png</key>
+		<data>
+		5cNCdPd1q2UCL4RYteZG0tpW0Yc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xcjt_dczc.png</key>
+		<data>
+		sqgAnfSbWDf7CjLiQvYImCYXsCE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xcjt_ggjt.png</key>
+		<data>
+		WbiNpppLg0xyPOBYErIq8k+1zxY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xcjt_jyf.png</key>
+		<data>
+		LeANbxLwgcJXcIp4hE56GxLvV8M=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xcjt_sjcfy.png</key>
+		<data>
+		y9hGil4KeMH3L6tKy0YCkxFbf28=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xcjt_tc.png</key>
+		<data>
+		ugmp2FoxgQkMh/J5uLpvo+mze8Y=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxjx.png</key>
+		<data>
+		bFRNW992680Nd+OkCLLm7JJzL1M=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxjx_pxjx.png</key>
+		<data>
+		cgC/wIqz04vxDYQGpPXbO5Q8OIk=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxjx_sbzz.png</key>
+		<data>
+		gId7GgeiOPgMRsz1Wf8gYTzAULU=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxjx_smzb.png</key>
+		<data>
+		U+PpcXHjgcii0338Ogj808601cs=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl.png</key>
+		<data>
+		lzuv+KdQxlM2rrGNrMj7arBuoA4=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_cp.png</key>
+		<data>
+		QfnlfjI6YoGDSqzHTh+aPlkwDlc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_cwbb.png</key>
+		<data>
+		CkPJq5plg0Ahw93E6C0qk8v9QF0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_fbjh.png</key>
+		<data>
+		f9ljGuVPsOtpw7OsV+zKopOFAUc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_lydj.png</key>
+		<data>
+		aDy443VqCq0P/vZs108ZHFdDSVA=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_wg.png</key>
+		<data>
+		h6/sGvm7GF+dTD73AlY5R1/cGgw=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_xxwl.png</key>
+		<data>
+		VWH/QZG1TLlkKJmtAmQgvHRwQRc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_xxyl_ydjs.png</key>
+		<data>
+		2GeDerRFx3nyz3P6OmwJE1xpXb0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yfsp.png</key>
+		<data>
+		TyVBKmgc88KbSSwvfFH17X/4A+Y=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yfsp_hzsp.png</key>
+		<data>
+		Z1pCsjSkmsSMlFD6CTnBa3lXKTg=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yfsp_xmbb.png</key>
+		<data>
+		UGd9ht8ovWkMNzma/H8SGWxAwaE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yfsp_yfkz.png</key>
+		<data>
+		6xaY61btdy20YMxKR6t17M+E9Yg=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yhsr.png</key>
+		<data>
+		BucRuwSnatv1i69BAg/0iCeeuhY=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_ylbj.png</key>
+		<data>
+		/14DRLW+GmNuyc2im4qFKmk2avA=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_ylbj_bjf.png</key>
+		<data>
+		biO9s79LkZ0jVhzk8BuJHjHN4K0=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_ylbj_mrf.png</key>
+		<data>
+		TCXrEeu01Tt3JrHoWP+aekfJO9g=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_ylbj_ypf.png</key>
+		<data>
+		t1RtUVG4DkM3L/8jbx4tLZ/WCnk=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_ylbj_zlf.png</key>
+		<data>
+		JlciQi18lygymosSzBDPM/Y0/No=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yyfy.png</key>
+		<data>
+		8bFeXWlzDz6FVe3n2bC+ipo8Xe4=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yyfy_sf.png</key>
+		<data>
+		KPygW5iS7JsKbJIMcZqWKuAvyi8=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yyfy_yyzf.png</key>
+		<data>
+		si7o0AQhepcY/TgZai3vshvQeOE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_yysr_fwsr.png</key>
+		<data>
+		lf2fYJ7Rt0jTmjafPF4Nl7Jz46I=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr.png</key>
+		<data>
+		Vf9bOrIintoL9032f72mgYnZgEE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr_gzsr.png</key>
+		<data>
+		LokKqhGAY8XCtjl/5hmwsjo0Ybo=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr_jbsr.png</key>
+		<data>
+		tZm4FvOcG1QAkGuEzUcGC6IjWVs=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr_jjsr.png</key>
+		<data>
+		MjC2mNY/yJlyviDFW3QZbxTDcYU=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr_jzsr.png</key>
+		<data>
+		w1RBBWTEbiCKMOdpbTHt7RGh3Pc=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr_lxsr.png</key>
+		<data>
+		bZ7iEfwbiAMIq1hgGSq1+9xVneE=
+		</data>
+		<key>MyMoney WatchKit App.app/icon_zysr_tzsr.png</key>
+		<data>
+		0lkNlvmSsiPXnMfNlMUlVLypEW4=
+		</data>
+		<key>MyMoney WatchKit App.app/logo196@2x.png</key>
+		<data>
+		R8YPAq7rt/vYHPT8ydVSMobL8Gw=
+		</data>
+		<key>MyMoney WatchKit App.app/logo62@2x.png</key>
+		<data>
+		hlAswygRUIDRcQI0/kAz7Jv0E9M=
+		</data>
+		<key>MyMoney WatchKit App.app/msg_budgetOverrun@2x.png</key>
+		<data>
+		5egwifBtCtapYAbi1AdDTHjXJ6o=
+		</data>
+		<key>MyMoney WatchKit App.app/msg_expense@2x.png</key>
+		<data>
+		AeVOYIvWnECHLdPS/MF7QOr8B80=
+		</data>
+		<key>MyMoney WatchKit App.app/msg_forum@2x.png</key>
+		<data>
+		qHJfgukcg2ZXeDQW/ma3mhaFRnw=
+		</data>
+		<key>MyMoney WatchKit App.app/msg_mainIcon@2x.png</key>
+		<data>
+		BCLQ5xPygDXxJuGt5yjyy/ASaMc=
+		</data>
+		<key>MyMoney WatchKit App.app/msg_social@2x.png</key>
+		<data>
+		WI+dJzhfHceaktezYZx6X4k1Tw8=
+		</data>
+		<key>MyMoney WatchKit App.app/msg_template@2x.png</key>
+		<data>
+		xI9c5x/ihnCr8fj8c3swX2w/tPc=
+		</data>
+		<key>MyMoney WatchKit App.app/notification_bg.png</key>
+		<data>
+		WAEmD2sjFRdsusPVbxIpNJYTbnc=
+		</data>
+		<key>MyMoney WatchKit App.app/templateType_expense@2x.png</key>
+		<data>
+		X538DmlaRvjXIoJE22nyQz0LGZI=
+		</data>
+		<key>MyMoney WatchKit App.app/templateType_income@2x.png</key>
+		<data>
+		RtFyl7MDW5x5jOSMUbkVKkemlO0=
+		</data>
+		<key>MyMoney WatchKit App.app/templateType_transfer@2x.png</key>
+		<data>
+		UbYg0IvSFd40SadtHusZ1soVlV4=
+		</data>
+		<key>MyMoney WatchKit App.app/template_mainIcon@2x.png</key>
+		<data>
+		dmruvBv3GwBXX6pkB0teC8cNB5g=
+		</data>
+		<key>MyMoney WatchKit App.app/workingIcon@2x.png</key>
+		<data>
+		BDZ5kO/DykAQtoDXUV/6TGA6Clc=
+		</data>
+		<key>MyMoney WatchKit App.app/zh-Hans.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t3VBS6dJjBMoEKvWpUjlPxMM3do=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/zh-Hant.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rTZrRgzp3skJkTOvDO6UYu4H7zw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>archived-expanded-entitlements.xcent</key>
+		<data>
+		vO/gVYVVkU1zHBaxd4xJ53/ga5k=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tOZI2Wh7xZwTUg5AxPXV9VN771g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tOZI2Wh7xZwTUg5AxPXV9VN771g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PyAISBfgKvYKyqhqsB5ZePd2fj0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>MyMoney WatchKit App.app/AllCategory.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7G9DSVq0snbmbDOVbGiht2aRF9o=
+			</data>
+			<key>hash2</key>
+			<data>
+			FtSd9fjUfas9juJ9NPQAkWs4Jongv36O0h6d5wuegeg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon24x24@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1+YPe52bA91E4Jyzh5aHfTCX8Lo=
+			</data>
+			<key>hash2</key>
+			<data>
+			sJ+O+VW90VWJofGpMUtYL1DiDcErEoPC3iQSCJGtlWE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon27.5x27.5@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pQQijuGUZOGWLCzgB7oIohIc9Wk=
+			</data>
+			<key>hash2</key>
+			<data>
+			lDOXRqk0HrwjY7AlJrxrP04z+wbe4HKgNSS/3XYEscI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon29x29@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jo4PN7KH3GaxrMitKSt2aEl212g=
+			</data>
+			<key>hash2</key>
+			<data>
+			aiA3/i7GbFX/GuMfcd3MPe1+ZIG3keiCe5zFJqiXMOQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon29x29@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X3ZZUh/Ox3CMgJ49Vk5twQJZ6iI=
+			</data>
+			<key>hash2</key>
+			<data>
+			kTqF3EXMo7763Tvsz63mLhP8nyAweHLi/4AfgvvgQmw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon40x40@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ejD+5/xG+4Ca9gOxzwSnTG3oZK0=
+			</data>
+			<key>hash2</key>
+			<data>
+			tsPeveooQt0QcKua3yoPUh2LEpXd3EivBLi9ZE1Q2f8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon44x44@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8inPlO/OMeM8nLefzpvsO5hWrMQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			88t8BVxikMAtirdnTxs+T3CTN73GDdQUAeODpckg3OM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon86x86@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			njjVfVMLISpsWeFxlUZ0zNB2Y4E=
+			</data>
+			<key>hash2</key>
+			<data>
+			qBc3zy8V4C6AiO13B4P8lsTZBRd9kakIfuOxGyAHcTE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AppIcon98x98@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4g7k2YVF3EDapgUI+MKpqo8e1u0=
+			</data>
+			<key>hash2</key>
+			<data>
+			dhtmiOVX/tLDvXMcqZeeKuBjKgp9coJQsapR3k7rlIQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/AskDebt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LpcJtzn7w+rqz4EvBHoaWjUooMY=
+			</data>
+			<key>hash2</key>
+			<data>
+			AuJQjyVsUKlgtJT1kYMQ6tDIvbT8tzU3euQv2oalZ1E=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/Base.lproj/Interface-glance.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t2chsn8N+/SFezH6VcOVwegWO4I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Qxb8f5SjTwtAG8xaPE2riYBwUU0vKxcmgBLacjTEcDs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/Base.lproj/Interface-notification.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S7eOFtjQU4js8ZkJP7nfllmIFbg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ySms4sFOUo7ffcTd3+jt5Hw6S3qpZyz/iS4Kc3lZt0g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/Base.lproj/Interface.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cHbfjdShwh3Nh77iS2J4TaV+Y2o=
+			</data>
+			<key>hash2</key>
+			<data>
+			+hmJ67j8qo31+VWoWGC2G2SW2oIy+EmB2yyXQ+rkkig=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/Borrow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RsGliEjbfHW4chtaVTstLJzcCeg=
+			</data>
+			<key>hash2</key>
+			<data>
+			U/cL++d1o04cet9dDEc7xRlgvqF8egw0XTqB2o+MJik=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q72jgophYtzKR6o9QVNPRqZprgY=
+			</data>
+			<key>hash2</key>
+			<data>
+			46ta6+ZyaIQw+Ey64w26oPyFe+YrdKZE01jDJW5G8AE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/Lend.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x903uH3kYIMsow1Hg9MNkvywDzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NVPK7iVzYDoo9RckoW15BKY3ftQz3sNmPvb3IEZ4i00=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/MyMoney WatchKit App</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XwQTf+4lcyV7NWT3Mf/imlxMfzs=
+			</data>
+			<key>hash2</key>
+			<data>
+			GM/D6uwroqP2dRbJenmWPxPHpFgFs5TBe7emtmTeqx0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/PayDebt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y++zRmoMQfqpCyqRAHJbnBfZCmQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3eGr/QuJxzNuiRZWxHOlukkv3m/yVwjW9GQjyglYueY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/RepayIn.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iWKUKuwRswsDXacmRcx9a+bdd6Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			lI0KgPM7X/+2XVIzvyoObAPDp4PhNUzOKQsVcpI7cqY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/RepayOut.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y++zRmoMQfqpCyqRAHJbnBfZCmQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3eGr/QuJxzNuiRZWxHOlukkv3m/yVwjW9GQjyglYueY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/TransferIn.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uueYLeyi+0vNlpn/GqzUX1lzYEU=
+			</data>
+			<key>hash2</key>
+			<data>
+			coM2mwdGls8QQFrQIqvi0mfx1Z2p31unPSsfclRhCxI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/TransferOut.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4pbRtJBx3vkzTPWBmCJRhhacLOA=
+			</data>
+			<key>hash2</key>
+			<data>
+			fTk5CjhUwJZN/yJ/awupoh7H3U+xr+HMBIyW+2eTak4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			in8PJ8ZFQLuoA9sNNGiAtJLt1DY=
+			</data>
+			<key>hash2</key>
+			<data>
+			fwpWzFg8NEWcgJSp9GsnMUqiWfGMm9fXCX4aNWkXDik=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/_WatchKitStub/WK</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3V96lj2+l379O2uU47WEe8h2jUE=
+			</data>
+			<key>hash2</key>
+			<data>
+			XUH0Q/Qsvfq7HxzLKaN7iN5cidw9q6VPmNGIbuDMhgI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/archived-expanded-entitlements.xcent</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vO/gVYVVkU1zHBaxd4xJ53/ga5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			l3BKiWC0+szu9UOXoI+10KRWJHw2JzWSFaoqJ98iZWw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/bullet_budgetOverrun@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XGamgB7BboDDokhwYxsB+b2RGhk=
+			</data>
+			<key>hash2</key>
+			<data>
+			dUDPKW7GO0MTZCFFqI6uvCWcF7UOAFzj5HXNqZsvwag=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/bullet_expense@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8FeEVSjIdsJeHNgjj1w7P2KfALs=
+			</data>
+			<key>hash2</key>
+			<data>
+			XuCoX3A1wjR64IVj7Ze6JvnZDlQ79BvhJz2TSn2/aZE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/bullet_forum@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NjCRZGOlH/SESiqhtsXRqZwGzyE=
+			</data>
+			<key>hash2</key>
+			<data>
+			cJcnx+mRz6HabKi/9QAY6ta6TXa43TeoBZzOTcZAGjQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/bullet_social@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uCYPCTdjjy41bD8TkjCDAS7jxyw=
+			</data>
+			<key>hash2</key>
+			<data>
+			JRh419zz0mhtMAMfeLoCeyUulJ5wlVNoAb5n6D6Unco=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/bullet_template@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			058x7+/1UBpLt2HLofWo6CIEq7s=
+			</data>
+			<key>hash2</key>
+			<data>
+			rcin/5ZfpkFwcy+5rgXvhAZzrKDtlK3WNsl9vmt6vYU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/chartAssets@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O0PgnaV+6vyPirnxuwmzNmbJzMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			wdUFERAqmSwJcQrewR9IlWx76SuWfnGO8UBTsIFJ940=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/chartBalance@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UwOHpWizdFSG3Pozto09uWMJjRI=
+			</data>
+			<key>hash2</key>
+			<data>
+			obHiIrB+ObeBhPtc7b7Oyi3xHrOdMEp85X07TFyLp6U=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/chartMonthExpense@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6ZPye6sByeioCo1+Ell96EqPWEk=
+			</data>
+			<key>hash2</key>
+			<data>
+			F7hAzse9bUvsT7ZarUo207/hMa/bpPCeDw7jEQs9wck=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/chartMonthIncome@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h9gwCs6LI7k5Wca1veU8B5g4oE0=
+			</data>
+			<key>hash2</key>
+			<data>
+			fMqPE4QEHnIuaNgtve6do4IoGYoBvXtyUN7pnYCSDTQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/chart_mainIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xiKOd798eF8N7NIgczQAdav1Z8E=
+			</data>
+			<key>hash2</key>
+			<data>
+			aamLd9aFb3uDmI8lesOCw5WlGMNJ6OHr03fdCUAA9P0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/common_btn_back@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SqYCDolOtzcxY73/eIzWNLb6LPs=
+			</data>
+			<key>hash2</key>
+			<data>
+			f5YDP3LxcE/6Lkihg3JxRgBHa5n3cY+mCwJP6X5dEXw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_cfsb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i0HoXOKlY186OwfkOPpNuDZGodA=
+			</data>
+			<key>hash2</key>
+			<data>
+			EmGJT4XNLNNXKQTzW3MPX7/zMStgO4HgqlKM/R/ZFyo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_ctjj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zvNyjxPVoZKOwY/Zk52sWNlmkQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			FwK4DafPOy9SW0uLHKrgDfEvBRGR5lVNzz/tmXPY5wE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_db.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6jy9robT97PHEz3WMxplD9lbbxo=
+			</data>
+			<key>hash2</key>
+			<data>
+			km4eAqlHtEV/le0XayrBiSsVgZuTSVmf4AhcezZmraA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_dhdsjwlxl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lTgFBelee0puL6F4Awm+9AlSsEc=
+			</data>
+			<key>hash2</key>
+			<data>
+			ykHBodwmxyec2/sIu3+WkwAJuNy4P6+6qw5BLoqWG4E=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_dlgzcl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7QyJckIFf8O9O69wcKMFJjzjDrM=
+			</data>
+			<key>hash2</key>
+			<data>
+			TgWQ3Y8uyp8Pv/FyiLDLdHLNteERVhotVt2oDvGiO/M=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_dy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sLZ7b//kgE2npBq1fNH1NWCl9hc=
+			</data>
+			<key>hash2</key>
+			<data>
+			V3N/rUV54kKp0B6mTJwfVskHQtSRAHA6KgQLWXi49AM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_fd.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BIzwhxZtQ+kOfBo8AXFsviGXU6w=
+			</data>
+			<key>hash2</key>
+			<data>
+			m/+qTRDxt/jBcdN+MEuBUQZYuWxP1xM/ZcgT9PGUtEE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_fjp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jxLnA4N4yza22WlLl+RUdkeKUT4=
+			</data>
+			<key>hash2</key>
+			<data>
+			gQJckE5i3go9h5CtrG76o9wjSB/D+DNUlSvrCSWK790=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_fscl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mThLBPpZG4QlSROysblBxL/BxCA=
+			</data>
+			<key>hash2</key>
+			<data>
+			GIB+bnzveSNcMQ63kkLn6e3aFsSzR85nl2C1YLtbvvE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_fzcl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LdYr2B46ebYDyqEz6LL443jSuG8=
+			</data>
+			<key>hash2</key>
+			<data>
+			xaejYT/vO8CL1cBbVswLjYoXSz8tOspHzKm6etcI9xk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_fzsb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EJA/1sj45VnaajB2a/CzXR9hTwA=
+			</data>
+			<key>hash2</key>
+			<data>
+			jiWA9p9UKmWSex3liurdBLToZww8sWKxugyCkkqeIME=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_ggx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VUyR7d/gcN2Xfq4pd4GVVk97oM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			1FkfipVU8I15D8Yox8ZdpZqZ7oTJ8Q4WNCviEZprt08=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_glds.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aGN9AEnisaG2J9wbXztv6hpMNBs=
+			</data>
+			<key>hash2</key>
+			<data>
+			lxaw2tQU5X6WYGdrjrfk735p7LXvhpMBYDg/rxhGlr8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_hcp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rzYVj2SQD7mNqk1pIPq6OMYRpRs=
+			</data>
+			<key>hash2</key>
+			<data>
+			tO15V3B9QbJ/6eQbnJFAHd+Ub/nbQ58q1Cp1SBFwuFM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_hld.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hJAqBuV5A8xPnFIZJOTHqAj/S9c=
+			</data>
+			<key>hash2</key>
+			<data>
+			lwt5gVMR/nViyCF0kvns3U5Z4TlY2hJ2805Bq2aJGPk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_hlqt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lntAwZPJPUvBClu7BnjEOUjzvFs=
+			</data>
+			<key>hash2</key>
+			<data>
+			9nSocXjnIWzpE/ts0k8TNlIKST9KikF9hEfyMyys9tg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_hqhdfy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OCytC5AZcUcFg9TTo+XzDToA0cU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ubJ2/6pP6GdNjnkoD7NEQZTdwWWEYUfxJGYluA2FKuI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_hsfz.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z+1JEMQk/uraK8A+sXUGO8LxQVI=
+			</data>
+			<key>hash2</key>
+			<data>
+			12TQPCwWoqNtUPB1huSewpQWpJ7OLaYNBzxS0Or3KX8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_hssy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p9GeUxEuMS/lSfyqTGeOjNlnSMA=
+			</data>
+			<key>hash2</key>
+			<data>
+			RIy21tj+yWgWnaWj21o/ibL4xKyPNIcDS3l+LkwtNHI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jdmp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vYKWcC/BZFB3SMF2hYNkBfnM9Qw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ym5mJU3ZxGd4553RLp3ljdcdDXDY+n3bxqRwCMInpMc=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jhsp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P70NdQncal2OgB296NOqtLUUCEY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z9Jh9mZ5F9CML8qYVZ2Y+ve6t1BWGMTahPm0r8GASyQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XjKVEb+M9HGvZMrydWMtSVRAFVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			EL8zhfzyv61EEZepSyR2Q5VSoPkI2cWh50+0tjGXhRM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jsbh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tdPwrj2EoKEcmnrn62XQuW2RRO0=
+			</data>
+			<key>hash2</key>
+			<data>
+			7o304SntHgOI5uolGqelx0pqH0wvV38QOcqqOgUVL7U=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jseh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IVGQkVBG3dAyU6iDI5t8I6/YY5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZJXJJ7el2OdoODYaYzQc5czxyS4REDxQJqVKzuPUJtQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jsh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NwRCkyvIdUCTmLECbGZeTETlU0s=
+			</data>
+			<key>hash2</key>
+			<data>
+			OlJnwChApGHIMV0BCngHbGLt7haCXh4oJa0XPx5yMAY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jsqh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+4hiI/UTQbpnohP1EfQlMaLVOH4=
+			</data>
+			<key>hash2</key>
+			<data>
+			2v/T4tHz+X7+FeYPUNVQGKQUJpNyuekZHgTy7g85PL8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jssh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Eigf21amuQoobdseMesRKrH6GEI=
+			</data>
+			<key>hash2</key>
+			<data>
+			VjLC0pmcaR4sBt0QL9n0A8rViKVMvbGRp7gZ2st6DoU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jswh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+c0R60f2gzLdbJgqkeEmtITaviE=
+			</data>
+			<key>hash2</key>
+			<data>
+			E3dD4sSRSD60CmwmNYB0SruXZTpevVzr0Z3rIFipWrY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_jydq.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wIOvomkEzIk5VOdD/HHHwOVdPTc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ru9bx2+lNyAS42EIEZPu2V4JLWIPd94oSaNIdBsvTnE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_lcp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d3N2RAYzQ9J495kEb/ajcVdIxts=
+			</data>
+			<key>hash2</key>
+			<data>
+			zX/hUMYFb9nGnNRofOXa/1ss0kTGIxYABDOB8QTeFKg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_lh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5BkojIip8GywHkHrRaZ6+0T0TEw=
+			</data>
+			<key>hash2</key>
+			<data>
+			XOQcVNdNasHLiYV8l1whEzdc+thi/uT0q0elrRzDUHE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_mc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4JVJpVd1jkLf18ftXHEjoBM8xTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			FrhHl0tRiNTBVnIy+oTdLB/27r7NjYZS1/iLFUD1D0U=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_mrwh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k2pA+w2nv2yPycC6SVQeLhJp/bU=
+			</data>
+			<key>hash2</key>
+			<data>
+			RK87s6CcjGsCilP6hyyd2UWZqYmxU8SVgHcNPMexyXg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_muc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H3REoFkWvKNt8pWl8dCibtQYk/Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			70/UBwGywGXJ8K4Rq26JnGyGxWOeSXmkL9UUfCayz8s=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_nf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+7KPb3dzPeH7Mp/7YDH5bkjaa7g=
+			</data>
+			<key>hash2</key>
+			<data>
+			yLVogYWUvm8x32Y2VYgenu+srIrToiUvrb67Jz6kHuk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_pjsp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Thclq9XU/CeCwfFXwb6RUCilXf8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Utd6vRiLBRcBkU7ne9HKKTh2W/WGhXBO5fwRjHfJStk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_qcp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E6I4OiuPzqQipD3FnJrS1gtNjFg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ieQ1tsXeZu/vnn3nlvYyJ9nDV/Q+Y+zbAMJBz8dgcTI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_qcqj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DyuiFdLnLemNXpVMt/ACZW2KBpg=
+			</data>
+			<key>hash2</key>
+			<data>
+			PeaAHVi7eQ229EacN2Q77j71bYSg27awJXSmjMCrBpY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_qmcl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m4W3Jy2O+rohsibKk7LD++jeX6I=
+			</data>
+			<key>hash2</key>
+			<data>
+			din3bhRMTrea1EUONp7dCm8Lt+zyF2R6f2hvxCnxRzE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_qtjj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6IJrhz3tOl64O1OPPvrn8GdfcK0=
+			</data>
+			<key>hash2</key>
+			<data>
+			UhnGLhecGyDrOSgQnKykavYlJrMYCY0pcIZcP+BXaTo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_sfjj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DAdISQ4HWrhtY+zONxtvNkkzxFE=
+			</data>
+			<key>hash2</key>
+			<data>
+			7p415OP4WvbgceFj+yz9uPSxv+BaQv0iZFFcIANb1jQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_shyp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UBY1zOdTnyZSZxepszi6LBi1Kgs=
+			</data>
+			<key>hash2</key>
+			<data>
+			XDgp61Disst0DvYubRGNSNiRPDW7AEoO91m40oYFH+4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_slgzcl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yNVA9MJlI0xreSb/609x/lSQ29o=
+			</data>
+			<key>hash2</key>
+			<data>
+			+50GxayRqS3rwH6pTPjUVE/ynAfyOfi5GxoN6zBpNME=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_tlrjq.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9QvxkJ3Fb1jxgbMt/hz0riK2rDg=
+			</data>
+			<key>hash2</key>
+			<data>
+			nY8wIX/4ot8HO02sS0XRGMrD0uRRrHeKgeZahu6pieE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_wanj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			spactnDgwrkV8AUmxI/P9IICT+4=
+			</data>
+			<key>hash2</key>
+			<data>
+			yRLp7e+wNPN9Q+Y18o/1/w1WUkcrSLdhetybmJdPteY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_wj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YDda863qzoGpRI2kezv+kktBhL4=
+			</data>
+			<key>hash2</key>
+			<data>
+			4qkXZcVOThakysEw5CxKFleVVoEY/gzpHOxZT7Jfeaw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_wysb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qrnXAWvXkM6H9xCDhZ7cBWsemZA=
+			</data>
+			<key>hash2</key>
+			<data>
+			uoHxNBa8pnmregUTo69/PIxlL5wE1Tzw/XoWaGUL9Og=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_xtxt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xH/nNDnraNlx569v+Myaftrbt+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			HH9l6vu+exD6Hr65HYhjjlVsVyRUz3KhuiyW9r94uBU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_yx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			odUeSg2UejdvN/S24UNp87wQQ+M=
+			</data>
+			<key>hash2</key>
+			<data>
+			/b0gfDk6T5PonsAgqR2UihSyhnu7DI9yE9EokP2b9SI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_zg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NKfLgcDw4GEsPNa/Ox4PQl77zko=
+			</data>
+			<key>hash2</key>
+			<data>
+			P3EHMkqWRpMsL6U+fcKKdzF1RTdWBCj3XJW/SbGWHXo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_zs.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4MeLV771ruzo7GKVAZl/Oe2xBTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			WMjsACHpu+86/wwdlIqisfj1+KBidusgINQ934NTND4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_zszh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qG46ulx1jWC0u10l124m7OoqGKY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ou5/Fk5FmZJQGspj63vtxz3XDJ6a/RYHjepyElikZMI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/d_zxmr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xUwECdgZl3GoZknLGR9hfaE6Kts=
+			</data>
+			<key>hash2</key>
+			<data>
+			HEtTMyRc9ubthC8ldY/V5x8UrFAJ3IbzTqc0qTkjdQg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/defaultIcon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			plhDpBDboYXqNT2ZhIV/ZBlRKgo=
+			</data>
+			<key>hash2</key>
+			<data>
+			3nM0ClIV86rB3WEG9A16gpuW1VTQioPG40Wfa2QM6ak=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/emptyIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wrHLS69PzyNXEYmdm7FIv9/HZmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			gC5S9/jb/sh9AVo8SV/kL2ji+lI/BJ/XG3yrmO6HYlU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t3VBS6dJjBMoEKvWpUjlPxMM3do=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ft9JwfITq+02dBNcTxCVnl/+ORU4Z90ixvpCXaYkVtE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/errorIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hkuWHfvm9qEQBWqzdONDRHSitvY=
+			</data>
+			<key>hash2</key>
+			<data>
+			2Gp0CRoGNUfAP49E/rLlnavoTzWLasdMmLDHHH/o0Xs=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/genericBack@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WAeYuugUTz9g/6pT0Hk25BapTqM=
+			</data>
+			<key>hash2</key>
+			<data>
+			szmvTebLQydlB0j1sZyz5Sug1xD33Htv7HA7niHSYJQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/glanceIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QMh/qRyKg7uaLMgMfDGCXfhQXs8=
+			</data>
+			<key>hash2</key>
+			<data>
+			nIaV/zz9G1LgXQhZgR25MGNR1UdzNFkjuaMjs0blv0s=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_arrow.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n7SNxHYebRkEmCXGDkjzLXcjfUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			S/0oFcLhaUybSSrfS16N8P67nqfW1OVEKvNoZqzr0lA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_balance_change.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V2ioSClrQNrCGEUvzPVgo1ETIgM=
+			</data>
+			<key>hash2</key>
+			<data>
+			7MU6melAWW93fvc265IOCchlQVrOXNHikP9z184afYA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_bbyp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BVgzXfbrv9OWsXKqdWD9V8Ke3x0=
+			</data>
+			<key>hash2</key>
+			<data>
+			kRcIXCKA+Gc8hrhYdzjF+jmllhAVwyQl6GrufP0NygY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_bbyp_nbnp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oMQEQ2N+D3816/3uBw82iF1s25c=
+			</data>
+			<key>hash2</key>
+			<data>
+			Smp4UZYdyx42bW5i8J/GPSpVZV0CrfnoVuqJbbeR4eo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_bbyp_ykxm.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4FL3k6WbO+rEpHWNUUaE3PU8/t4=
+			</data>
+			<key>hash2</key>
+			<data>
+			i5x3MfIctAaZMF1KTtlHTcSRN0HjwKhINZu8It6LvkI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_bbyp_zjwj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8XhJzH8X/S+63/+hxJn7hgb+ubQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			03SIj3P0L7sT4KaGHJ5bSjsodiOyHG3K6MPfDmYiAhA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bvpj+/gVkdn2BowZr68XRZFYAHI=
+			</data>
+			<key>hash2</key>
+			<data>
+			OG5AwhPW7qZeo8baYlaD9/KJj1QeEdVMDa188cZM5xY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy_fz.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RS1GHBTGhl9rFf/kY4UR30Vz1yo=
+			</data>
+			<key>hash2</key>
+			<data>
+			oQygj78gl6kk8R1XBgOYf+PXmGjexnPmDxVrDxUMM4E=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy_rcyp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W9IVCaxDfV7VkoK4afXiQ/4oZdY=
+			</data>
+			<key>hash2</key>
+			<data>
+			eXQdi/j0iXH4lJDH/IR4BeXPE0NfTO3t8gZ2kl4H9os=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy_sdmq.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			twy7toWbWpZO9NcXr8ThHsNAJzo=
+			</data>
+			<key>hash2</key>
+			<data>
+			q05aiobrbkyCJiPhF/sdsQeIBBdihx2oY2MzFmaeWXU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy_swcc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UaKAcHTBCiBXbYJoMURnGGtF2wY=
+			</data>
+			<key>hash2</key>
+			<data>
+			FGwp5s1oqeIiuq2Hm/msWwyeUutNFelx49UlGQjGOIQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy_wygl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ujzu7RSmQ1VMhRj5dg8P4cMYloM=
+			</data>
+			<key>hash2</key>
+			<data>
+			exLnORjEHph0Swuhw6285lbrUx4+S0+F4+U7rgIyypo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jjwy_yxby.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IJxNg5CWOZeaqufl8kxO4E1vZDU=
+			</data>
+			<key>hash2</key>
+			<data>
+			j+hTySLH8YISDeL5H7qsxgLiJow+aZ4Hs/jhXzjeJUE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jltx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R1PglcAJHgezOrk466nb0Q+4nu8=
+			</data>
+			<key>hash2</key>
+			<data>
+			pDd+pLNkpAkNH7WCTSORqds1AnSVY3su3+zgDnDRAN0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jltx_sjf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VO0qPfnKJNGj7l4iCw9QzOE6Yi0=
+			</data>
+			<key>hash2</key>
+			<data>
+			EVszCcpaFAKrMZ48Pe4YbC0zPxAnhWgrf9AJ8XCHX0M=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jltx_swf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HPWKPFqVVVxtac9/gDi7vwhLFpw=
+			</data>
+			<key>hash2</key>
+			<data>
+			a6qyp+Km3I4G27r+vzwrxSk52qWQHMWjMUNT2MOJ0RM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jltx_yjf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wPxLiMLHusMGsE86i9/L/llvXIE=
+			</data>
+			<key>hash2</key>
+			<data>
+			boDgCf4CPG3tHrYEfO7LVIXegp3U3wXbAbpLcY7qvIk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jltx_zjf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5ZhpkIn4Ho3u7XNA9Mvh01lgiQY=
+			</data>
+			<key>hash2</key>
+			<data>
+			muMPVQFoe6hKP1zK7cirCKUjEyEwP5OVbzmy0irpSmQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gJQaDTKoFTQwxhiyvwjVmBE0mNg=
+			</data>
+			<key>hash2</key>
+			<data>
+			5MR1r4YHso9AcW5EpAFqacuAeyNH7NezJXZWNC5hmF0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_ajhk.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cXmUtzvm+Ei167CHU6LetQdm4ds=
+			</data>
+			<key>hash2</key>
+			<data>
+			3NnqhpZ+bwiNHT/M4X7hPVTaeYPLIuMEa2acJSmaV7w=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_bxzc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fVtoUPww1hU/Ho/iPXhrdDDj+qc=
+			</data>
+			<key>hash2</key>
+			<data>
+			MZWUNChuqbB+wUATyM6MysPl71FF1m/s2IT9JJM3U4E=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_lxzc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CpvX/UWblqPWXwLFy8J8woAGgYg=
+			</data>
+			<key>hash2</key>
+			<data>
+			LQ/MYZk1oPD3e2j3SiJrVSEIUAMgfi9mevOtx6NuOvc=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_pcfk.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y8OWn6Ch7cEUVR5OhdUa8YmJJ00=
+			</data>
+			<key>hash2</key>
+			<data>
+			E6iXCPTs/FoL7SlkJ53pMIDzoD2Dm0DlHPWB8eHxkZc=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_tzks.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kUE9LuikP7v4Nu1gZKGGisbd7Pk=
+			</data>
+			<key>hash2</key>
+			<data>
+			dQ8fXn595CsILMfVNzEuy1amIUofoglSzJdImVWpDDg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_xfss.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o/pfaM5419sDlIMC2UaC7O/izVQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			eVdQoecIhy46HO4CNXsjBBh+bDQEZLp6sS1pgbdIx5M=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrbx_yhsx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qvkbv4LLSEFP8yu1/ZPk22cEaMY=
+			</data>
+			<key>hash2</key>
+			<data>
+			LecGd2EcVjEWftdp5gb0aDtHab06sGfbOI9zA+sADmE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_jrtz_bxsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pFlBSOqYlTFU9rbb1JK4sqtuqGg=
+			</data>
+			<key>hash2</key>
+			<data>
+			DprEiB4O/Gxlz9kn1jG8rCIQuYAwEmSV5SZyzMJ+xgE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_lyyp_hwyk.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yIcf7Q4LskCOQ2tgj/YvLQEUqn0=
+			</data>
+			<key>hash2</key>
+			<data>
+			QxVegTX3FyGtxYB6zAx8RzmwFQH1QVZ7uwP7ib6O5oc=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_lyyp_hwzb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8+uqADzbqu9sk/Kvl/A+KAdlMyQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XBC4W9luZ8scypG2F7Vr5okW+haAnt7qyA5J+Orbji8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9Iy2Ogveeh5znazzFFRKrRdGuNE=
+			</data>
+			<key>hash2</key>
+			<data>
+			nh7cXGmOfwbpmsZDJsZYYQmLNA9ijHZ1JQA1ob5rxL4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_jysd.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D2iikoSVCJe8xvxGDKzH2Wok3kQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			iJ1tOvUy/SG1/lhon70z7Ia2ZtOnTZPV6PHAG1yUNOI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_ljsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c8YJDYoClU8+T25VO2ygV87CeNY=
+			</data>
+			<key>hash2</key>
+			<data>
+			CNDZ8jOz+NQinIuaCf1a51gjTw66y4R0a2zzhPM2ca0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_mfp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MhJo6pvJqOA5D0ee0IZFFjB3Jpc=
+			</data>
+			<key>hash2</key>
+			<data>
+			YZzVE7IjIyx0YfUfl8CJqc1oFyXQu3dEacLqSADevgU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_thtk.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4MzU2ekfSDFtNjdb1SAY6U/D2K4=
+			</data>
+			<key>hash2</key>
+			<data>
+			y+MiCib7IYtB3TedaXCFW+Nqe4dOcOgddBFPjRnXHGA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_xykhk.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xIqQC8A5SnoSuERwQ1mFpsaArio=
+			</data>
+			<key>hash2</key>
+			<data>
+			Iab21VcsOmtdtmz2vIVKoh5miwc6sQ7p9eg8xDBLLo4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_ywlq.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GZV+VkZkCrL/QIe4VuCXtTWcZrc=
+			</data>
+			<key>hash2</key>
+			<data>
+			5W8yKg45uolsQu26P5eomOmH6MuDnzUgIAlchIVWhd0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtsr_zjsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XMqEOIlbI2ZsrLoU43T3h/Zaxrk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rv9LlcIZd3nt8ee2zJu+oNfafNwNFukwQVSFFMq3+hs=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtzx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JMHy3BfRN7dUoBS9Bf+Ku1GgaJo=
+			</data>
+			<key>hash2</key>
+			<data>
+			gs5beUKD1E97WsC/14OHuJUYgDj5GfQVgneNeCWnf30=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtzx_bmf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NioIxer5TQulJ/GjQDK/KXu4n7k=
+			</data>
+			<key>hash2</key>
+			<data>
+			oiqwqWnZB3gnQzwDWwYx3YQpyqQyBC1VPRqIk5YI8Y4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtzx_lzss.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FQq+RwmwwUOLoQvVFZ+9pQ4DINg=
+			</data>
+			<key>hash2</key>
+			<data>
+			kvMlLbXxkiuZ0pbC2l3VFM9exAUywm+NwSwsG5rglZc=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtzx_qtzc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			09ub9Ve1veaDExo2panEoLQSFDw=
+			</data>
+			<key>hash2</key>
+			<data>
+			jnve1szFBk/NVIOIKUclRVPYgr8HqUuSjDTv6Nx29go=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_qtzx_ywds.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8zk9eAtdfE8HAmnYy5LEk766OD0=
+			</data>
+			<key>hash2</key>
+			<data>
+			py1tdfZIjC6VhgrTyFiyxv0oN3ls7B4D3zr2Fw9rrCo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_rqwl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			btLZD7iNPAFORPwJ6h4LMX6vY9g=
+			</data>
+			<key>hash2</key>
+			<data>
+			qC87f+GTbQjv2+o0TfN5toMNU+UnfgC4xXlJ1sj/YHw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_rqwl_csjz.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bQaj8/6Nc1NVJJww8FcztOJT7p8=
+			</data>
+			<key>hash2</key>
+			<data>
+			9DAgCVG7o0WsHH3qz1DdO8lWNT1A8utktZLD85gcY+k=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_rqwl_hrqc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+XbMxVQqmlC0j6cOLWdrFA5hWN0=
+			</data>
+			<key>hash2</key>
+			<data>
+			iakerEKn0HqJRtF6o+TBwq7ufM5KTH3i3O4H2PsnYCU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_rqwl_slqk.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			68n4HLXsItS+SIBl80WSz0lPI3M=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZIHl5TS5H3v1cZV6A67+/YCmeqvwTktXbeKOdgA/vNU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_rqwl_xjjz.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zX1YmA+hPXCObjQPCP5fT7kgFSs=
+			</data>
+			<key>hash2</key>
+			<data>
+			G03k88uX155iXvRuMVhh/4UbkAeNvcUv8pAIxbe36cg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MMINn96BzNlQmR3TA5FdFUAyThU=
+			</data>
+			<key>hash2</key>
+			<data>
+			lSRLwiPd+T2zX8sYDsn3/uCyOdRJ/OlbT4LfNf1Yau0=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_mc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZckF+AKYHWfoOA0fAB8NC/gT640=
+			</data>
+			<key>hash2</key>
+			<data>
+			trsHlztgctdnII+msViCoZrCUE+gjC7i4vrfNChRnk4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_sgls.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			L4vlY6UZgdfon5P9MigFD5B3/m8=
+			</data>
+			<key>hash2</key>
+			<data>
+			6IBqRa9EOsHuzJI3S06TJ2pYtSMeH19BnV0T6J5R5iE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_wc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qHscm+rimsnZdkYzyIKuEItgHnk=
+			</data>
+			<key>hash2</key>
+			<data>
+			9gmtSRsPUcu5j+f069I1JYaX8SGmlFmcz23YAAlSRYM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_yjc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K4iMB6H9AcOwDBYL03hue5jbMdY=
+			</data>
+			<key>hash2</key>
+			<data>
+			PSCbEhntfzZbcIxt8B7rEi/a53+9/Ln+rLnDrh9gPIM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_yl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8kKMnqkFh0E3QmddBQXYKsIcSMo=
+			</data>
+			<key>hash2</key>
+			<data>
+			WVnTwk2OBt/VBJERJrwgSa/LOvkZw8UhP/tsum3+hX8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_zc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2YVHmWEIZZvJEH9IzQC6qNftmcI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Nxhu3Dq/ePjztN/ZalqXpONely5DCph4r7dKKcAvZTY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_spjs_zwwc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oHrHqXNrqq44S6MwWSKIzTZcWfA=
+			</data>
+			<key>hash2</key>
+			<data>
+			vYFjFnMHD/kVliWGfMsyAJCWy+8b/JIyoGfUQcQ2udM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xcjt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5cNCdPd1q2UCL4RYteZG0tpW0Yc=
+			</data>
+			<key>hash2</key>
+			<data>
+			KNTEO/8I5laZrjMsd6fegEHvnWElmad7CoJUbvjwaTU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xcjt_dczc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sqgAnfSbWDf7CjLiQvYImCYXsCE=
+			</data>
+			<key>hash2</key>
+			<data>
+			bWz0t02+o9vCBqCnk5s7YCM+6HS7qCd0YDC2B57UUH8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xcjt_ggjt.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WbiNpppLg0xyPOBYErIq8k+1zxY=
+			</data>
+			<key>hash2</key>
+			<data>
+			l87ZfYfZGECmP29AiLHtv8tFyEub6n6SVSfTA9opQKk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xcjt_jyf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LeANbxLwgcJXcIp4hE56GxLvV8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			QVMd6WwfdCTdMhPg+LtAld1R2oYVR+5T/I/F/jJOffk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xcjt_sjcfy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y9hGil4KeMH3L6tKy0YCkxFbf28=
+			</data>
+			<key>hash2</key>
+			<data>
+			Gxb0L1g+B1y5xCGSm71K3VKcdQqth7rIi+cLkquM3ak=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xcjt_tc.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ugmp2FoxgQkMh/J5uLpvo+mze8Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			Gtj8p3XepN+NsEiorhyJO7hMRRYMiqbACAaVoeLJt/8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxjx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bFRNW992680Nd+OkCLLm7JJzL1M=
+			</data>
+			<key>hash2</key>
+			<data>
+			EfyUlo+6fyiqtk/0yI17n1nr0jC4+5J3+DWuPH0XYSE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxjx_pxjx.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cgC/wIqz04vxDYQGpPXbO5Q8OIk=
+			</data>
+			<key>hash2</key>
+			<data>
+			M9OEQvs4ghm1c9/8M7wrCLZFVKbbdsLD3YWF87eF/D4=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxjx_sbzz.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gId7GgeiOPgMRsz1Wf8gYTzAULU=
+			</data>
+			<key>hash2</key>
+			<data>
+			wEQdwoyKvMx2PJFU2x0vnj+19DqMHbJkqPEpCmv7ZkU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxjx_smzb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U+PpcXHjgcii0338Ogj808601cs=
+			</data>
+			<key>hash2</key>
+			<data>
+			hrK2i89bAcGb2J/DMHNR3Sqa+xJEPz56PT6YPs3aArM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lzuv+KdQxlM2rrGNrMj7arBuoA4=
+			</data>
+			<key>hash2</key>
+			<data>
+			U8zm3hP2B5RLl7+bfULzwFWFgJ+BsMVBNRtwf+xiIzE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_cp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QfnlfjI6YoGDSqzHTh+aPlkwDlc=
+			</data>
+			<key>hash2</key>
+			<data>
+			EUMvgy8BOcKMIIPn5XzPOTvD5eublSyvOF5I17AYItY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_cwbb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CkPJq5plg0Ahw93E6C0qk8v9QF0=
+			</data>
+			<key>hash2</key>
+			<data>
+			fNDpWHtphxuAGhPZZVtKjiup72sjUvGCXVjqMxEPkcM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_fbjh.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f9ljGuVPsOtpw7OsV+zKopOFAUc=
+			</data>
+			<key>hash2</key>
+			<data>
+			+SwOm6g5p8JwSRIq5BZFU3m+yP/+52E1A4WEif141co=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_lydj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aDy443VqCq0P/vZs108ZHFdDSVA=
+			</data>
+			<key>hash2</key>
+			<data>
+			rshmdSzE7PnsVUKaPuonrN2Gj0ioc89B28IbsDOHoZI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_wg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h6/sGvm7GF+dTD73AlY5R1/cGgw=
+			</data>
+			<key>hash2</key>
+			<data>
+			WWoSkIcGLMTyYdqqNO5SAsZ2WNjQlx46fovoHBEmujo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_xxwl.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VWH/QZG1TLlkKJmtAmQgvHRwQRc=
+			</data>
+			<key>hash2</key>
+			<data>
+			5I3tDZwzarPfNmraP+jU0BXzq4wrsgXyRhQvDX6TBAw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_xxyl_ydjs.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2GeDerRFx3nyz3P6OmwJE1xpXb0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ih72tRCxCJT8IF8s1rdbr4xkoNBUEP4V9qIZQhFI7pw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yfsp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TyVBKmgc88KbSSwvfFH17X/4A+Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			4qfZhXivtCD8LapMLp6uMhCngNAhowxj0BPh5WHvdVA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yfsp_hzsp.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z1pCsjSkmsSMlFD6CTnBa3lXKTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			DIJ2EtlQtnRYiBCjwue1QrxTh7Sk4xRhLzB2swJSAYs=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yfsp_xmbb.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UGd9ht8ovWkMNzma/H8SGWxAwaE=
+			</data>
+			<key>hash2</key>
+			<data>
+			MhfgfGYQB/RxOHuHDxizh1wUfYseBiHlGlIPCpojYvw=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yfsp_yfkz.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6xaY61btdy20YMxKR6t17M+E9Yg=
+			</data>
+			<key>hash2</key>
+			<data>
+			UV/biSOGIFpErbs3oi+HNbjSwoC/OJb159Z7DAQ6gTk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yhsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BucRuwSnatv1i69BAg/0iCeeuhY=
+			</data>
+			<key>hash2</key>
+			<data>
+			5McxknMnbUeEKD6aYv+py356NvsvzXDGErm41IOlfZA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_ylbj.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/14DRLW+GmNuyc2im4qFKmk2avA=
+			</data>
+			<key>hash2</key>
+			<data>
+			x1M6vQTa4NoIDXn6jjKzA0yjL0cUJr10TpF04d2dllA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_ylbj_bjf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			biO9s79LkZ0jVhzk8BuJHjHN4K0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gMvgjDXTvhQuYm/aVGwQire8qr/A2I5E1AsLm+5b7GQ=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_ylbj_mrf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TCXrEeu01Tt3JrHoWP+aekfJO9g=
+			</data>
+			<key>hash2</key>
+			<data>
+			gMARCDMhHkkxNCO69qdHtfAn02xdFQAobLayAsRfJdk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_ylbj_ypf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t1RtUVG4DkM3L/8jbx4tLZ/WCnk=
+			</data>
+			<key>hash2</key>
+			<data>
+			vzz8+A1xOAKsb3gUr5iifzQUzkH0UQ80TpGjObo8T2c=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_ylbj_zlf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JlciQi18lygymosSzBDPM/Y0/No=
+			</data>
+			<key>hash2</key>
+			<data>
+			3huXnav9dUMWy8wi/jrUWNUvYkPKsXpMT9o7xaMPIUg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yyfy.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8bFeXWlzDz6FVe3n2bC+ipo8Xe4=
+			</data>
+			<key>hash2</key>
+			<data>
+			FzEO5zLxJvhMBYAA0EGoqOaXFnEcEh3Mb6zdYQUOrcA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yyfy_sf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KPygW5iS7JsKbJIMcZqWKuAvyi8=
+			</data>
+			<key>hash2</key>
+			<data>
+			OBdz/+wSvfJxpskvrBqR28ue82ABqEKxB7Lo324aIZM=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yyfy_yyzf.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			si7o0AQhepcY/TgZai3vshvQeOE=
+			</data>
+			<key>hash2</key>
+			<data>
+			HTFe8c8bme2VpoC1Ob2qhIVhZfnFtj8O1KVxsBRbk1Q=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_yysr_fwsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lf2fYJ7Rt0jTmjafPF4Nl7Jz46I=
+			</data>
+			<key>hash2</key>
+			<data>
+			3JAcbpXAnQMBH7MOIG2cyfOOLq9KGcatSY9xuIoX3v8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Vf9bOrIintoL9032f72mgYnZgEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			E+g6wAPoONMLT+o7CY5X934Tm9jzaGA8ISMK+dPvnUA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr_gzsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LokKqhGAY8XCtjl/5hmwsjo0Ybo=
+			</data>
+			<key>hash2</key>
+			<data>
+			gWhDGWYfySEJe1OdT1YDkPua2OyDUa6g99sqb5flGrU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr_jbsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tZm4FvOcG1QAkGuEzUcGC6IjWVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			JIsbyl+ihiMZlhB+hNvbhLsFfcXu2I1BSqw0KmsWFDc=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr_jjsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MjC2mNY/yJlyviDFW3QZbxTDcYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			gF5dUOx/qRg0vxnMjPmuLfo1c+0O7TmV3k7ciAMiU6k=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr_jzsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w1RBBWTEbiCKMOdpbTHt7RGh3Pc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Bd8ckkq64lLMlM0OcsSqVUKfTcDzZdWnFmVPHaPyJJs=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr_lxsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bZ7iEfwbiAMIq1hgGSq1+9xVneE=
+			</data>
+			<key>hash2</key>
+			<data>
+			d7BmfhuZ38waSUPGkdFI2upt+fV/NWIK8xLs4HxgDKE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/icon_zysr_tzsr.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0lkNlvmSsiPXnMfNlMUlVLypEW4=
+			</data>
+			<key>hash2</key>
+			<data>
+			j03v+pnAqRoM+ltXUf7Ul1i9sBj9C0yoToW2mFd4z90=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/logo196@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R8YPAq7rt/vYHPT8ydVSMobL8Gw=
+			</data>
+			<key>hash2</key>
+			<data>
+			By8GXfb1EpUmvVqvUvVawVoSAFYjZh32lKn84WDfE/s=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/logo62@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hlAswygRUIDRcQI0/kAz7Jv0E9M=
+			</data>
+			<key>hash2</key>
+			<data>
+			2ul02irMJF9REuv1Th+ZhX+RiOVEo3f0CiuMe1C0Hbg=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/msg_budgetOverrun@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5egwifBtCtapYAbi1AdDTHjXJ6o=
+			</data>
+			<key>hash2</key>
+			<data>
+			7ieKL36H/pvxG6K96aZxffr5zzosI3EsRS2P16janlo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/msg_expense@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AeVOYIvWnECHLdPS/MF7QOr8B80=
+			</data>
+			<key>hash2</key>
+			<data>
+			h/9FSW3H6ruu66hcEQzcFn9pVtvRI6TgoULg02IbbSo=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/msg_forum@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qHJfgukcg2ZXeDQW/ma3mhaFRnw=
+			</data>
+			<key>hash2</key>
+			<data>
+			/3Y6saJucSOttpgVy3hxhFaGca2011ncjziI9e9/+m8=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/msg_mainIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BCLQ5xPygDXxJuGt5yjyy/ASaMc=
+			</data>
+			<key>hash2</key>
+			<data>
+			rBQkUeEuVMmq+YqSALT4cauGB8CpGp9zenjjd3iTHqY=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/msg_social@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WI+dJzhfHceaktezYZx6X4k1Tw8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wjb5QsNDzpcQyNHCvXniFv01dnUmboRB68T4a6+80Zk=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/msg_template@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xI9c5x/ihnCr8fj8c3swX2w/tPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			UOvdlwhvUbY4dSJHfHGd1frsshRRegoCBrYqHyUR3+s=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/notification_bg.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WAEmD2sjFRdsusPVbxIpNJYTbnc=
+			</data>
+			<key>hash2</key>
+			<data>
+			/n2bB+9466tv8ic1MkotlRKsvPoRPDj/4AU7/z5QRng=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/templateType_expense@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X538DmlaRvjXIoJE22nyQz0LGZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			OXEJBsBqjdEZL0RL+j6qOucyddQtgeKEZz4rQd0tKGs=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/templateType_income@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RtFyl7MDW5x5jOSMUbkVKkemlO0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gjjFDmXm2X+4AwnQX4LGPfBGlsXKPvTo6zPKt1iByiI=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/templateType_transfer@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UbYg0IvSFd40SadtHusZ1soVlV4=
+			</data>
+			<key>hash2</key>
+			<data>
+			CiAEyv1V9cIZ8p75agDxsSV/6oBHEKUMhFV1o9NrRHE=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/template_mainIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dmruvBv3GwBXX6pkB0teC8cNB5g=
+			</data>
+			<key>hash2</key>
+			<data>
+			Snck0h5IUl1kywOagFl3yo9GwWAZ4Lz8qyj2LRGMrHU=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/workingIcon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BDZ5kO/DykAQtoDXUV/6TGA6Clc=
+			</data>
+			<key>hash2</key>
+			<data>
+			RQDxM1hdnClpjYC6KGNjzZYIxUbxT2UdwjFJNjE9OpA=
+			</data>
+		</dict>
+		<key>MyMoney WatchKit App.app/zh-Hans.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t3VBS6dJjBMoEKvWpUjlPxMM3do=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ft9JwfITq+02dBNcTxCVnl/+ORU4Z90ixvpCXaYkVtE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>MyMoney WatchKit App.app/zh-Hant.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rTZrRgzp3skJkTOvDO6UYu4H7zw=
+			</data>
+			<key>hash2</key>
+			<data>
+			N2droOAx1gj6WrPUIkB9/xb6X1W7l7ng0M1JWqpFN60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>archived-expanded-entitlements.xcent</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vO/gVYVVkU1zHBaxd4xJ53/ga5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			l3BKiWC0+szu9UOXoI+10KRWJHw2JzWSFaoqJ98iZWw=
+			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tOZI2Wh7xZwTUg5AxPXV9VN771g=
+			</data>
+			<key>hash2</key>
+			<data>
+			eiExLibxLPT0/IwV+COUVGdh8ILgZWqR5vFYuLcB68A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tOZI2Wh7xZwTUg5AxPXV9VN771g=
+			</data>
+			<key>hash2</key>
+			<data>
+			eiExLibxLPT0/IwV+COUVGdh8ILgZWqR5vFYuLcB68A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PyAISBfgKvYKyqhqsB5ZePd2fj0=
+			</data>
+			<key>hash2</key>
+			<data>
+			88NoZrNZxMOudOp4dBYVirYR/RKjzZlajy66d1FuX0E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^</key>
+		<true/>
+		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
